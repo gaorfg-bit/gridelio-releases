@@ -100,7 +100,7 @@ Current public release:
 
 | Version | Build | Date | SHA-256 of the DMG |
 |---|---|---|---|
-| 1.2.1 | 127 | 2026-11-11 | `34038e837a28be8b1265afa103fd5c2ce7a6b371a6479a98fe3581dae30bc179` |
+| 1.2.2 | 128 | 2026-11-12 | `025f1e95689dd29dc5ff9946990e9a5e43c1d9f5277fd0c8160ddb48931f6036` |
 
 All releases are listed in [CHANGELOG.md](CHANGELOG.md).
 

@@ -6,6 +6,16 @@ The app updates itself from [`gridelio.com/updates.json`](https://gridelio.com/u
 
 ---
 
+## 1.2.2 — 2026-11-12 (build 128)
+
+**Fixed**
+
+- **You can now enter your licence key during the trial.** The "Activate a license…" button only appeared once the trial had ended (the app counted as Pro while trialling), so a customer who bought on day one had to wait 15 days. "Deactivate this Mac" is now only shown with a real licence.
+- **Price aligned**: the activation window announced €9.99 while the site and Gumroad sell at €4.99.
+- **Update check on launch**: a fresh install never wrote the preference, so the automatic check stayed off. It is now on by default; an explicit opt-out is still respected.
+
+---
+
 ## 1.2.1 — 2026-11-11 (build 127)
 
 **New**
